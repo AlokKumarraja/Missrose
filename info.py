@@ -2,6 +2,6 @@ API_ID       = 20166883
 API_HASH     = "2ed83c06296da199c977de79dc171089"
 BOT_TOKEN    = "6899643012:AAHst1PKiLASun4NBHNRpsF6fUNwQW8lA5E"
 SESSION      = "BQHFENsAZeGq1D9zv5RFw-_I7fRwp5GkXXCpFrr3TaJv6B9Ljxjh0vFxEN-DX5i28KjeiMFLvRxNN80zjqfcilLG0FVeF3mKKTvjYsV0yjQ9G7tXR40k_MwqFghPfbGJNon_-ZUUf8gyP_L09o87-h3Lup1RFfZ0FKvTQXsZqh-IWp-NVUWL-NuSYr0hKQn7tzPNpeCL0fFSe39IZrL14o_58BDa6tNkx_IxKiZOR8XVOwWoGrEroyScBOA-4whpmUx1uTNX0NacgUOVgL3ashtDRdsqsqUlB2HKgzkQrgkTiljpW39qsAFKmxzpiMq_giMWHBwC44LMjUR9Am0ca8qFexSC2gAAAAGJu3YHAA"
-DATABASE_URI = "mgupyii.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URI = "mongodb+srv://bharathkalladi38:4TDnaR1dZqAEshQq@cluster0.ps5ucul.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 LOG_CHANNEL  = -1002060057429
 ADMIN        = 7088860739
